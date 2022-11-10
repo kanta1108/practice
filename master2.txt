@@ -1,7 +1,1 @@
-
-master
-
-master3
-
-feature
-
+amend
